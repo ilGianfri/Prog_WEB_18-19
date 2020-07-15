@@ -1,21 +1,21 @@
-@-webkit-keyframes fade 
+@-webkit-keyframes fade
 {
-    from 
+    from
     {
         opacity: .4
     }
-    to 
+    to
     {
         opacity: 1
     }
 }
-@keyframes fade 
+@keyframes fade
 {
-    from 
+    from
     {
         opacity: .4
     }
-    to 
+    to
     {
         opacity: 1
     }
@@ -34,7 +34,7 @@
 {
     width: 100%;
 }
-#slidercontainer .left, .right 
+#slidercontainer .left, .right
 {
     cursor: pointer;
     position: absolute;
@@ -53,11 +53,11 @@
     right: 0;
     border-radius: 3px 0 0 3px;
 }
-#slidercontainer .left:hover, .right:hover 
+#slidercontainer .left:hover, .right:hover
 {
     background-color: rgba(115, 115, 115, 0.8);
 }
-#slidercontainer .content 
+#slidercontainer .content
 {
     color: white;
     /* testo bordi neri */
@@ -71,12 +71,12 @@
     width: 97.5%;
     text-align: center;
 }
-#slidercontainer .active 
+#slidercontainer .active
 {
     background-color: #717171;
 }
 /* Fading animation */
-#slidercontainer .fade 
+#slidercontainer .fade
 {
     -webkit-animation-name: fade;
     -webkit-animation-duration: 1.5s;

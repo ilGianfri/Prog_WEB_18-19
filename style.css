@@ -1,5 +1,5 @@
 /* https://www.fontsquirrel.com/tools/webfont-generator */
-@font-face 
+@font-face
 {
     font-family: 'abeezeeregular';
     src: url('font/abeezee-regular-webfont.woff2') format('woff2'),
@@ -23,7 +23,7 @@ body
     width: 100%;
     height: 160px;
 }
-#header img 
+#header img
 {
     margin-left: 22%;
 }
@@ -74,7 +74,7 @@ body
 }
 
 /* Container */
-#container 
+#container
 {
     margin-top: 12px;
     margin-right: 3%;
@@ -98,12 +98,12 @@ button
 input[type=text], select, textarea, input[type=number]
 {
     width: 80%;
-    padding: 12px;  
-    border: 1px solid #ccc; 
-    border-radius: 25px; 
-    box-sizing: border-box; 
-    margin-top: 6px; 
-    margin-bottom: 16px; 
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
     resize: vertical;
     margin-left: 10%;
     margin-right: 10%;
@@ -116,7 +116,7 @@ label
 }
 
 /* Style tasto submit */
-input[type=submit] 
+input[type=submit]
 {
     background-color: #4CAF50;
     color: white;
@@ -126,7 +126,7 @@ input[type=submit]
     cursor: pointer;
     margin-left: 10%;
 }
-input[type=submit]:hover 
+input[type=submit]:hover
 {
     background-color: #45a049;
 }
