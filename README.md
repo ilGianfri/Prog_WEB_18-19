@@ -1,5 +1,9 @@
 # Progetto Esame Programmazione Web 2018/2019
 
+[![CodeFactor](https://www.codefactor.io/repository/github/ilgianfri/upo-programmazioneweb/badge)](https://www.codefactor.io/repository/github/ilgianfri/upo-programmazioneweb)
+![Last commit](https://img.shields.io/github/last-commit/ilGianfri/upo-programmazioneweb.svg?style=popout-square)
+![License](https://img.shields.io/github/license/ilGianfri/upo-programmazioneweb.svg?style=popout-square) 
+
 # Analisi dei requisiti
 
 ## Cliente
